@@ -19,7 +19,7 @@ This project implements three robotic manipulation tasks using the **Arduino Bra
 
 ## Demo
 
-🎥 **Video:** https://youtu.be/uWvt22I38Gw
+🎥 **Video:** [https://youtu.be/1GGrDo4hKoM]
 
 ---
 
